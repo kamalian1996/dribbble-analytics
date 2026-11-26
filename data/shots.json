@@ -5,7 +5,7 @@
     "title": "Logo Design | Dizno",
     "imageUrl": "https://cdn.dribbble.com/userupload/46799353/file/eb74f417d38c6fd3176f764378e21887.png?crop=0x0-1667x1250&resize=1600x1200",
     "posted": "Feb 20, 2026",
-    "views": 2893,
+    "views": 2904,
     "saves": 5,
     "likes": 23,
     "comments": 4,
@@ -31,7 +31,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:18:17.809Z",
+    "scrapedAt": "2026-11-26T21:14:23.384Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -1130,6 +1130,14 @@
         "likes": 23,
         "saves": 5,
         "comments": 4
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 2904,
+        "likes": 23,
+        "saves": 5,
+        "comments": 4
       }
     ]
   },
@@ -1139,7 +1147,7 @@
     "title": "Brand Identity Collection | Dizno",
     "imageUrl": "https://cdn.dribbble.com/userupload/46830016/file/c90064c1336f6b9397935de92312ae9d.png?crop=0x0-3333x2500&resize=1600x1200",
     "posted": "Feb 22, 2026",
-    "views": 1479,
+    "views": 1483,
     "saves": 4,
     "likes": 18,
     "comments": 3,
@@ -1164,7 +1172,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:18:19.523Z",
+    "scrapedAt": "2026-11-26T21:14:25.123Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -2263,6 +2271,14 @@
         "likes": 18,
         "saves": 4,
         "comments": 3
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 1483,
+        "likes": 18,
+        "saves": 4,
+        "comments": 3
       }
     ]
   },
@@ -2272,7 +2288,7 @@
     "title": "Social Media Launch Visuals | Dizno",
     "imageUrl": "https://cdn.dribbble.com/userupload/46835059/file/e6df6e52292a7c48a26149facf90d82b.png?resize=1600x1200",
     "posted": "Feb 23, 2026",
-    "views": 7919,
+    "views": 7924,
     "saves": 5,
     "likes": 23,
     "comments": 3,
@@ -2290,7 +2306,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:18:21.216Z",
+    "scrapedAt": "2026-11-26T21:14:26.788Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -3389,6 +3405,14 @@
         "likes": 23,
         "saves": 5,
         "comments": 3
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 7924,
+        "likes": 23,
+        "saves": 5,
+        "comments": 3
       }
     ]
   },
@@ -3398,7 +3422,7 @@
     "title": "AI-Powered Self-Discovery | Inhusk",
     "imageUrl": "https://cdn.dribbble.com/userupload/46840065/file/a6752afa69df16095628517fecfbed6e.jpg?crop=0x0-3201x2401&resize=1600x1200",
     "posted": "Feb 23, 2026",
-    "views": 5841,
+    "views": 5857,
     "saves": 9,
     "likes": 30,
     "comments": 4,
@@ -3417,7 +3441,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:18:22.865Z",
+    "scrapedAt": "2026-11-26T21:14:28.404Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -4516,6 +4540,14 @@
         "likes": 30,
         "saves": 9,
         "comments": 4
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 5857,
+        "likes": 30,
+        "saves": 9,
+        "comments": 4
       }
     ]
   },
@@ -4525,7 +4557,7 @@
     "title": "Verbal & Visual Concept | Inhusk",
     "imageUrl": "https://cdn.dribbble.com/userupload/46851493/file/e99bfbed338397d5dad6d50e773d5d11.png?resize=1600x1200",
     "posted": "Feb 24, 2026",
-    "views": 27607,
+    "views": 27636,
     "saves": 9,
     "likes": 32,
     "comments": 7,
@@ -4550,7 +4582,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:18:24.731Z",
+    "scrapedAt": "2026-11-26T21:14:30.037Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -5649,6 +5681,14 @@
         "likes": 32,
         "saves": 9,
         "comments": 7
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 27636,
+        "likes": 32,
+        "saves": 9,
+        "comments": 7
       }
     ]
   },
@@ -5658,7 +5698,7 @@
     "title": "The Mobile Web Journey | Inhusk",
     "imageUrl": "https://cdn.dribbble.com/userupload/46855016/file/1b4c4db0bf63480b44d7ccb37843e9bd.jpg?resize=1600x1200",
     "posted": "Feb 24, 2026",
-    "views": 3693,
+    "views": 3701,
     "saves": 3,
     "likes": 19,
     "comments": 5,
@@ -5686,7 +5726,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:18:26.365Z",
+    "scrapedAt": "2026-11-26T21:14:31.683Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -6785,6 +6825,14 @@
         "likes": 19,
         "saves": 3,
         "comments": 5
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 3701,
+        "likes": 19,
+        "saves": 3,
+        "comments": 5
       }
     ]
   },
@@ -6794,7 +6842,7 @@
     "title": "Logo Motion Design | Inhusk",
     "imageUrl": "https://cdn.dribbble.com/userupload/46863822/file/fd7e84f35567b8dc9c789397c3affe89.png?resize=1600x1200",
     "posted": "Feb 25, 2026",
-    "views": 6529,
+    "views": 6568,
     "saves": 7,
     "likes": 24,
     "comments": 4,
@@ -6822,7 +6870,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:18:28.020Z",
+    "scrapedAt": "2026-11-26T21:14:33.305Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -7921,6 +7969,14 @@
         "likes": 24,
         "saves": 7,
         "comments": 4
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 6568,
+        "likes": 24,
+        "saves": 7,
+        "comments": 4
       }
     ]
   },
@@ -7930,7 +7986,7 @@
     "title": "404 and 503 Pages Experience | Inhusk",
     "imageUrl": "https://cdn.dribbble.com/userupload/46868990/file/0fb95ca4fd2c2e7dee6f1f102a6c3c4a.jpg?resize=1600x1200",
     "posted": "Feb 25, 2026",
-    "views": 4249,
+    "views": 4260,
     "saves": 9,
     "likes": 17,
     "comments": 2,
@@ -7956,7 +8012,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:18:29.682Z",
+    "scrapedAt": "2026-11-26T21:14:35.550Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -9055,6 +9111,14 @@
         "likes": 17,
         "saves": 9,
         "comments": 2
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 4260,
+        "likes": 17,
+        "saves": 9,
+        "comments": 2
       }
     ]
   },
@@ -9064,7 +9128,7 @@
     "title": "Verbal Identity | Inhusk",
     "imageUrl": "https://cdn.dribbble.com/userupload/46877279/file/e8f67fc557c3ea9d7673b605ca1db5cf.png?resize=1600x1200",
     "posted": "Feb 26, 2026",
-    "views": 3238,
+    "views": 3248,
     "saves": 5,
     "likes": 18,
     "comments": 2,
@@ -9091,7 +9155,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:18:31.296Z",
+    "scrapedAt": "2026-11-26T21:14:37.187Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -10190,6 +10254,14 @@
         "likes": 18,
         "saves": 5,
         "comments": 2
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 3248,
+        "likes": 18,
+        "saves": 5,
+        "comments": 2
       }
     ]
   },
@@ -10199,7 +10271,7 @@
     "title": "Features That Define Discovery | Inhusk",
     "imageUrl": "https://cdn.dribbble.com/userupload/46882354/file/981d1cb1579cd7925645dd5a1b19756e.jpg?resize=1600x1200",
     "posted": "Feb 26, 2026",
-    "views": 3066,
+    "views": 3071,
     "saves": 5,
     "likes": 15,
     "comments": 3,
@@ -10221,7 +10293,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:18:32.947Z",
+    "scrapedAt": "2026-11-26T21:14:38.816Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -11320,6 +11392,14 @@
         "likes": 15,
         "saves": 5,
         "comments": 3
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 3071,
+        "likes": 15,
+        "saves": 5,
+        "comments": 3
       }
     ]
   },
@@ -11329,7 +11409,7 @@
     "title": "Designing for Daily Presence | Inhusk",
     "imageUrl": "https://cdn.dribbble.com/userupload/46891310/file/dd875e96989369cec2ed128ebe49f5e7.png?crop=0x0-3201x2401&resize=1600x1200",
     "posted": "Feb 27, 2026",
-    "views": 1831,
+    "views": 1836,
     "saves": 5,
     "likes": 16,
     "comments": 3,
@@ -11353,7 +11433,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:18:34.596Z",
+    "scrapedAt": "2026-11-26T21:14:40.466Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -12452,6 +12532,14 @@
         "likes": 16,
         "saves": 5,
         "comments": 3
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 1836,
+        "likes": 16,
+        "saves": 5,
+        "comments": 3
       }
     ]
   },
@@ -12461,7 +12549,7 @@
     "title": "Mapping Your Cosmic Identity | Inhusk",
     "imageUrl": "https://cdn.dribbble.com/userupload/46894351/file/358bc1ff3a5950109401703f64869963.jpg?resize=1600x1200",
     "posted": "Feb 27, 2026",
-    "views": 6380,
+    "views": 6413,
     "saves": 9,
     "likes": 16,
     "comments": 0,
@@ -12482,7 +12570,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:18:36.230Z",
+    "scrapedAt": "2026-11-26T21:14:42.130Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -13581,6 +13669,14 @@
         "likes": 16,
         "saves": 9,
         "comments": 0
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 6413,
+        "likes": 16,
+        "saves": 9,
+        "comments": 0
       }
     ]
   },
@@ -13590,7 +13686,7 @@
     "title": "Social Media Design | Dizno",
     "imageUrl": "https://cdn.dribbble.com/userupload/47331886/file/957c5d214a539a7543a6ad2a4f249611.png?resize=1600x1200",
     "posted": "Apr 9, 2026",
-    "views": 10261,
+    "views": 10273,
     "saves": 10,
     "likes": 22,
     "comments": 2,
@@ -13609,7 +13705,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:18:37.918Z",
+    "scrapedAt": "2026-11-26T21:14:43.808Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -14708,6 +14804,14 @@
         "likes": 22,
         "saves": 10,
         "comments": 2
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 10273,
+        "likes": 22,
+        "saves": 10,
+        "comments": 2
       }
     ]
   },
@@ -14717,7 +14821,7 @@
     "title": "Dreams & Insights App | Inhusk",
     "imageUrl": "https://cdn.dribbble.com/userupload/47335980/file/1914640f00a37c812f4098147b5beabf.jpg?resize=1600x1200",
     "posted": "Apr 9, 2026",
-    "views": 13184,
+    "views": 13193,
     "saves": 7,
     "likes": 19,
     "comments": 2,
@@ -14739,7 +14843,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:18:39.580Z",
+    "scrapedAt": "2026-11-26T21:14:45.463Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -15838,6 +15942,14 @@
         "likes": 19,
         "saves": 7,
         "comments": 2
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 13193,
+        "likes": 19,
+        "saves": 7,
+        "comments": 2
       }
     ]
   },
@@ -15847,7 +15959,7 @@
     "title": "Deciphering Relational Dynamics | Inhusk",
     "imageUrl": "https://cdn.dribbble.com/userupload/47339909/file/9dc2383d91da7e75a5c3949c9a0bb679.jpg?resize=1600x1200",
     "posted": "Apr 10, 2026",
-    "views": 1905,
+    "views": 1911,
     "saves": 6,
     "likes": 13,
     "comments": 0,
@@ -15863,7 +15975,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:18:41.197Z",
+    "scrapedAt": "2026-11-26T21:14:47.084Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -16962,6 +17074,14 @@
         "likes": 13,
         "saves": 6,
         "comments": 0
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 1911,
+        "likes": 13,
+        "saves": 6,
+        "comments": 0
       }
     ]
   },
@@ -16971,7 +17091,7 @@
     "title": "Form & Color in Motion | Dizno",
     "imageUrl": "https://cdn.dribbble.com/userupload/47344158/file/ea228e6023845ecce408f3556d1433d5.png?crop=0x562-4501x3938&resize=1600x1200",
     "posted": "Apr 10, 2026",
-    "views": 1486,
+    "views": 1491,
     "saves": 8,
     "likes": 17,
     "comments": 1,
@@ -16986,7 +17106,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:18:42.834Z",
+    "scrapedAt": "2026-11-26T21:14:48.715Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -18085,6 +18205,14 @@
         "likes": 17,
         "saves": 8,
         "comments": 1
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 1491,
+        "likes": 17,
+        "saves": 8,
+        "comments": 1
       }
     ]
   },
@@ -18094,7 +18222,7 @@
     "title": "Brand Visibility in Social | Dizno",
     "imageUrl": "https://cdn.dribbble.com/userupload/47358967/file/d7a2cfbc2b17e1b7d2d38230673f9ac5.png?crop=368x0-2544x1632&resize=1600x1200",
     "posted": "Apr 11, 2026",
-    "views": 2281,
+    "views": 2287,
     "saves": 6,
     "likes": 12,
     "comments": 0,
@@ -18111,7 +18239,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:18:44.523Z",
+    "scrapedAt": "2026-11-26T21:14:50.346Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -19210,6 +19338,14 @@
         "likes": 12,
         "saves": 6,
         "comments": 0
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 2287,
+        "likes": 12,
+        "saves": 6,
+        "comments": 0
       }
     ]
   },
@@ -19219,7 +19355,7 @@
     "title": "Not Just a Match, But a Pattern | Inhusk",
     "imageUrl": "https://cdn.dribbble.com/userupload/47359092/file/8cc34d4fa80c413579494d199b64540f.jpg?resize=1600x1200",
     "posted": "Apr 11, 2026",
-    "views": 3985,
+    "views": 3999,
     "saves": 6,
     "likes": 17,
     "comments": 0,
@@ -19240,7 +19376,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:18:46.131Z",
+    "scrapedAt": "2026-11-26T21:14:51.946Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -20339,6 +20475,14 @@
         "likes": 17,
         "saves": 6,
         "comments": 0
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 3999,
+        "likes": 17,
+        "saves": 6,
+        "comments": 0
       }
     ]
   },
@@ -20348,7 +20492,7 @@
     "title": "Branding Through Key Touchpoints | Dizno",
     "imageUrl": "https://cdn.dribbble.com/userupload/47365983/file/still-a93fcc12ae00530d29c15f1bd2978f5e.png?resize=1920x1080",
     "posted": "Apr 12, 2026",
-    "views": 1461,
+    "views": 1467,
     "saves": 4,
     "likes": 16,
     "comments": 1,
@@ -20370,7 +20514,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:18:47.752Z",
+    "scrapedAt": "2026-11-26T21:14:53.610Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -21469,6 +21613,14 @@
         "likes": 16,
         "saves": 4,
         "comments": 1
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 1467,
+        "likes": 16,
+        "saves": 4,
+        "comments": 1
       }
     ]
   },
@@ -21478,7 +21630,7 @@
     "title": "App Store Screenshots | Inhusk",
     "imageUrl": "https://cdn.dribbble.com/userupload/47368155/file/2be907fcc8f82f6c1afb68a24d646d98.jpg?resize=1600x1200",
     "posted": "Apr 12, 2026",
-    "views": 2631,
+    "views": 2639,
     "saves": 4,
     "likes": 11,
     "comments": 0,
@@ -21495,7 +21647,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:18:49.564Z",
+    "scrapedAt": "2026-11-26T21:14:55.231Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -22594,6 +22746,14 @@
         "likes": 11,
         "saves": 4,
         "comments": 0
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 2639,
+        "likes": 11,
+        "saves": 4,
+        "comments": 0
       }
     ]
   },
@@ -22603,7 +22763,7 @@
     "title": "In Motion | Dizno",
     "imageUrl": "https://cdn.dribbble.com/userupload/47375268/file/892da235fed231fdcd74ad26cbd4e58b.jpg?crop=240x0-1680x1080&resize=1600x1200",
     "posted": "Apr 13, 2026",
-    "views": 784,
+    "views": 790,
     "saves": 3,
     "likes": 10,
     "comments": 0,
@@ -22630,7 +22790,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:18:51.214Z",
+    "scrapedAt": "2026-11-26T21:14:56.866Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -23729,6 +23889,14 @@
         "likes": 10,
         "saves": 3,
         "comments": 0
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 790,
+        "likes": 10,
+        "saves": 3,
+        "comments": 0
       }
     ]
   },
@@ -23738,7 +23906,7 @@
     "title": "Visualizing the Subconscious | Inhusk",
     "imageUrl": "https://cdn.dribbble.com/userupload/47377540/file/37bb74c8a451b3ad1a5e026d16a29d6a.jpg?crop=0x0-3200x2400&resize=1600x1200",
     "posted": "Apr 13, 2026",
-    "views": 1743,
+    "views": 1757,
     "saves": 3,
     "likes": 12,
     "comments": 0,
@@ -23755,7 +23923,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:18:52.879Z",
+    "scrapedAt": "2026-11-26T21:14:58.520Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -24854,6 +25022,14 @@
         "likes": 12,
         "saves": 3,
         "comments": 0
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 1757,
+        "likes": 12,
+        "saves": 3,
+        "comments": 0
       }
     ]
   },
@@ -24863,7 +25039,7 @@
     "title": "3D Glass Elements | Heli Studio",
     "imageUrl": "https://cdn.dribbble.com/userupload/47388912/file/51b319d4759477e93291b71119a3d814.png?crop=0x188-1500x1313&resize=1500x1500",
     "posted": "Apr 14, 2026",
-    "views": 1704,
+    "views": 1726,
     "saves": 3,
     "likes": 15,
     "comments": 1,
@@ -24882,7 +25058,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:18:54.547Z",
+    "scrapedAt": "2026-11-26T21:15:00.152Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -25981,6 +26157,14 @@
         "likes": 15,
         "saves": 3,
         "comments": 1
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 1726,
+        "likes": 15,
+        "saves": 3,
+        "comments": 1
       }
     ]
   },
@@ -25990,7 +26174,7 @@
     "title": "A Unified Ecosystem for Self-Discovery | Inhusk",
     "imageUrl": "https://cdn.dribbble.com/userupload/47391623/file/219e2997df9aea31a9489364a637b380.jpg?resize=1600x1200",
     "posted": "Apr 14, 2026",
-    "views": 4363,
+    "views": 4378,
     "saves": 6,
     "likes": 18,
     "comments": 5,
@@ -26012,7 +26196,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:18:56.213Z",
+    "scrapedAt": "2026-11-26T21:15:01.819Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -27111,6 +27295,14 @@
         "likes": 18,
         "saves": 6,
         "comments": 5
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 4378,
+        "likes": 18,
+        "saves": 6,
+        "comments": 5
       }
     ]
   },
@@ -27120,7 +27312,7 @@
     "title": "A Multi-Dimensional Ecosystem for Self-Discovery | Inhusk",
     "imageUrl": "https://cdn.dribbble.com/userupload/47391985/file/aaa9adbcd3bf184e05c66472805c399c.jpg?resize=1600x1200",
     "posted": "Apr 15, 2026",
-    "views": 8736,
+    "views": 8748,
     "saves": 6,
     "likes": 19,
     "comments": 4,
@@ -27136,7 +27328,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:18:57.881Z",
+    "scrapedAt": "2026-11-26T21:15:03.452Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -28235,6 +28427,14 @@
         "likes": 19,
         "saves": 6,
         "comments": 4
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 8748,
+        "likes": 19,
+        "saves": 6,
+        "comments": 4
       }
     ]
   },
@@ -28244,7 +28444,7 @@
     "title": "3D Playground | Dizno",
     "imageUrl": "https://cdn.dribbble.com/userupload/47403565/file/6b1469683151e4500768dc07d867b18c.png?crop=0x174-1500x1299&resize=1500x1500",
     "posted": "Apr 15, 2026",
-    "views": 6160,
+    "views": 6166,
     "saves": 3,
     "likes": 16,
     "comments": 1,
@@ -28263,7 +28463,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:18:59.498Z",
+    "scrapedAt": "2026-11-26T21:15:05.109Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -29362,6 +29562,14 @@
         "likes": 16,
         "saves": 3,
         "comments": 1
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 6166,
+        "likes": 16,
+        "saves": 3,
+        "comments": 1
       }
     ]
   },
@@ -29371,7 +29579,7 @@
     "title": "Color Picker | Dizno",
     "imageUrl": "https://cdn.dribbble.com/userupload/47417837/file/8fced487e654881253018ee28c25fa90.jpg?resize=1600x1200",
     "posted": "Apr 16, 2026",
-    "views": 3458,
+    "views": 3467,
     "saves": 2,
     "likes": 15,
     "comments": 0,
@@ -29394,7 +29602,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:19:01.132Z",
+    "scrapedAt": "2026-11-26T21:15:06.779Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -30493,6 +30701,14 @@
         "likes": 15,
         "saves": 2,
         "comments": 0
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 3467,
+        "likes": 15,
+        "saves": 2,
+        "comments": 0
       }
     ]
   },
@@ -30502,7 +30718,7 @@
     "title": "Gradient Generator | Dizno",
     "imageUrl": "https://cdn.dribbble.com/userupload/47429076/file/aca63a4216835dd34ad91b15f4dd8289.jpg?resize=1600x1200",
     "posted": "Apr 17, 2026",
-    "views": 16710,
+    "views": 16721,
     "saves": 4,
     "likes": 46,
     "comments": 11,
@@ -30518,7 +30734,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:19:02.764Z",
+    "scrapedAt": "2026-11-26T21:15:08.402Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -31617,6 +31833,14 @@
         "likes": 46,
         "saves": 4,
         "comments": 11
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 16721,
+        "likes": 46,
+        "saves": 4,
+        "comments": 11
       }
     ]
   },
@@ -31626,7 +31850,7 @@
     "title": "Palette Generator | Dizno",
     "imageUrl": "https://cdn.dribbble.com/userupload/47430284/file/6286027eddc8858df6d027db5c95aa85.jpg?resize=1600x1200",
     "posted": "Apr 18, 2026",
-    "views": 3460,
+    "views": 3475,
     "saves": 2,
     "likes": 13,
     "comments": 2,
@@ -31644,7 +31868,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:19:04.397Z",
+    "scrapedAt": "2026-11-26T21:15:10.029Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -32743,6 +32967,14 @@
         "likes": 13,
         "saves": 2,
         "comments": 2
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 3475,
+        "likes": 13,
+        "saves": 2,
+        "comments": 2
       }
     ]
   },
@@ -32752,7 +32984,7 @@
     "title": "Mastering the Geometry of Color | Dizno",
     "imageUrl": "https://cdn.dribbble.com/userupload/47451896/file/e7ac18f1d93f6fb71f7a704d9f5cc57e.jpg?resize=1600x1200",
     "posted": "Apr 20, 2026",
-    "views": 2135,
+    "views": 2145,
     "saves": 3,
     "likes": 10,
     "comments": 0,
@@ -32766,7 +32998,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:19:06.047Z",
+    "scrapedAt": "2026-11-26T21:15:11.631Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -33865,6 +34097,14 @@
         "likes": 10,
         "saves": 3,
         "comments": 0
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 2145,
+        "likes": 10,
+        "saves": 3,
+        "comments": 0
       }
     ]
   },
@@ -33874,7 +34114,7 @@
     "title": "Social Content System | HOP VPN",
     "imageUrl": "https://cdn.dribbble.com/userupload/47452013/file/ee48cec791696ee17ba0b2afa6408ea6.png?resize=1600x1200",
     "posted": "Apr 20, 2026",
-    "views": 1314,
+    "views": 1319,
     "saves": 5,
     "likes": 11,
     "comments": 2,
@@ -33893,7 +34133,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:19:07.662Z",
+    "scrapedAt": "2026-11-26T21:15:13.244Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -34992,6 +35232,14 @@
         "likes": 11,
         "saves": 5,
         "comments": 2
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 1319,
+        "likes": 11,
+        "saves": 5,
+        "comments": 2
       }
     ]
   },
@@ -35001,7 +35249,7 @@
     "title": "3D Visual System | HOP VPN",
     "imageUrl": "https://cdn.dribbble.com/userupload/47459408/file/3d7630e82e85af3622f5ee4604109150.png?resize=1600x1200",
     "posted": "Apr 21, 2026",
-    "views": 2470,
+    "views": 2484,
     "saves": 6,
     "likes": 11,
     "comments": 1,
@@ -35019,7 +35267,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:19:09.278Z",
+    "scrapedAt": "2026-11-26T21:15:14.878Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -36118,6 +36366,14 @@
         "likes": 11,
         "saves": 6,
         "comments": 1
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 2484,
+        "likes": 11,
+        "saves": 6,
+        "comments": 1
       }
     ]
   },
@@ -36127,7 +36383,7 @@
     "title": "Color Toolkit for Designers | Dizno",
     "imageUrl": "https://cdn.dribbble.com/userupload/47470055/file/829f30043f264cf3d3f4086dbe77541f.jpg?resize=1600x1200",
     "posted": "Apr 21, 2026",
-    "views": 2267,
+    "views": 2274,
     "saves": 4,
     "likes": 9,
     "comments": 0,
@@ -36143,7 +36399,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:19:10.929Z",
+    "scrapedAt": "2026-11-26T21:15:16.528Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -37242,6 +37498,14 @@
         "likes": 9,
         "saves": 4,
         "comments": 0
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 2274,
+        "likes": 9,
+        "saves": 4,
+        "comments": 0
       }
     ]
   },
@@ -37251,7 +37515,7 @@
     "title": "Type Animation | HOP VPN",
     "imageUrl": "https://cdn.dribbble.com/userupload/47479125/file/still-b11fa5af347f1a0ef3564ece39dc97ac.png?resize=1600x1200",
     "posted": "Apr 22, 2026",
-    "views": 2358,
+    "views": 2372,
     "saves": 5,
     "likes": 10,
     "comments": 0,
@@ -37267,7 +37531,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:19:12.551Z",
+    "scrapedAt": "2026-11-26T21:15:18.166Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -38366,6 +38630,14 @@
         "likes": 10,
         "saves": 5,
         "comments": 0
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 2372,
+        "likes": 10,
+        "saves": 5,
+        "comments": 0
       }
     ]
   },
@@ -38375,7 +38647,7 @@
     "title": "Designing in Every Light | Dizno",
     "imageUrl": "https://cdn.dribbble.com/userupload/47483362/file/504315e22615f6a861b22bf9eaeaf84e.jpg?resize=1600x1200",
     "posted": "Apr 22, 2026",
-    "views": 1216,
+    "views": 1223,
     "saves": 2,
     "likes": 8,
     "comments": 0,
@@ -38395,7 +38667,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:19:14.182Z",
+    "scrapedAt": "2026-11-26T21:15:19.794Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -39494,6 +39766,14 @@
         "likes": 8,
         "saves": 2,
         "comments": 0
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 1223,
+        "likes": 8,
+        "saves": 2,
+        "comments": 0
       }
     ]
   },
@@ -39503,7 +39783,7 @@
     "title": "Calm Color System | HOP VPN",
     "imageUrl": "https://cdn.dribbble.com/userupload/47491028/file/19a441336e9bc6b80a5ae5a2b419fb1c.png?crop=0x0-6667x5000&resize=1600x1200",
     "posted": "Apr 23, 2026",
-    "views": 2281,
+    "views": 2286,
     "saves": 2,
     "likes": 11,
     "comments": 1,
@@ -39518,7 +39798,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:19:15.796Z",
+    "scrapedAt": "2026-11-26T21:15:21.439Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -40617,6 +40897,14 @@
         "likes": 11,
         "saves": 2,
         "comments": 1
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 2286,
+        "likes": 11,
+        "saves": 2,
+        "comments": 1
       }
     ]
   },
@@ -40626,7 +40914,7 @@
     "title": "Structured Color System | Dizno",
     "imageUrl": "https://cdn.dribbble.com/userupload/47496642/file/f443dca5626a6a2fbb8ff3aa9b260be1.jpg?resize=1600x1200",
     "posted": "Apr 23, 2026",
-    "views": 2463,
+    "views": 2470,
     "saves": 3,
     "likes": 14,
     "comments": 2,
@@ -40643,7 +40931,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:19:17.445Z",
+    "scrapedAt": "2026-11-26T21:15:23.065Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -41742,6 +42030,14 @@
         "likes": 14,
         "saves": 3,
         "comments": 2
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 2470,
+        "likes": 14,
+        "saves": 3,
+        "comments": 2
       }
     ]
   },
@@ -41751,7 +42047,7 @@
     "title": "3D Icon Set | HOP VPN",
     "imageUrl": "https://cdn.dribbble.com/userupload/47503051/file/still-cf12f645ee1990af88d668b8f3270d8e.png?resize=1600x1200",
     "posted": "Apr 24, 2026",
-    "views": 25591,
+    "views": 25625,
     "saves": 12,
     "likes": 33,
     "comments": 8,
@@ -41765,7 +42061,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:19:19.106Z",
+    "scrapedAt": "2026-11-26T21:15:24.705Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -42864,6 +43160,14 @@
         "likes": 33,
         "saves": 12,
         "comments": 8
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 25625,
+        "likes": 33,
+        "saves": 12,
+        "comments": 8
       }
     ]
   },
@@ -42873,7 +43177,7 @@
     "title": "Mapping the Self in Real-Time | Inhusk",
     "imageUrl": "https://cdn.dribbble.com/userupload/47507636/file/831dfee057776d3c4cd1b1e440ef289f.jpg?resize=1600x1200",
     "posted": "Apr 24, 2026",
-    "views": 1654,
+    "views": 1662,
     "saves": 2,
     "likes": 11,
     "comments": 2,
@@ -42889,7 +43193,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:19:20.748Z",
+    "scrapedAt": "2026-11-26T21:15:26.430Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -43988,6 +44292,14 @@
         "likes": 11,
         "saves": 2,
         "comments": 2
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 1662,
+        "likes": 11,
+        "saves": 2,
+        "comments": 2
       }
     ]
   },
@@ -43997,7 +44309,7 @@
     "title": "3D Logo Exploration | Visual Asset System",
     "imageUrl": "https://cdn.dribbble.com/userupload/47513854/file/25a1d8ee36f7760ed6e47f41d0e0b117.png?resize=1600x1200",
     "posted": "Apr 25, 2026",
-    "views": 1187,
+    "views": 1194,
     "saves": 2,
     "likes": 8,
     "comments": 0,
@@ -44012,7 +44324,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:19:22.394Z",
+    "scrapedAt": "2026-11-26T21:15:28.097Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -45111,6 +45423,14 @@
         "likes": 8,
         "saves": 2,
         "comments": 0
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 1194,
+        "likes": 8,
+        "saves": 2,
+        "comments": 0
       }
     ]
   },
@@ -45120,7 +45440,7 @@
     "title": "The Science of Harmonious Design | Dizno",
     "imageUrl": "https://cdn.dribbble.com/userupload/47514030/file/d0437ba43cdcdaad43704e2f2e56edec.jpg?resize=1600x1200",
     "posted": "Apr 25, 2026",
-    "views": 3166,
+    "views": 3174,
     "saves": 2,
     "likes": 10,
     "comments": 0,
@@ -45136,7 +45456,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:19:24.029Z",
+    "scrapedAt": "2026-11-26T21:15:29.728Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -46235,6 +46555,14 @@
         "likes": 10,
         "saves": 2,
         "comments": 0
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 3174,
+        "likes": 10,
+        "saves": 2,
+        "comments": 0
       }
     ]
   },
@@ -46244,7 +46572,7 @@
     "title": "Identity as a Content System | Heli Technology",
     "imageUrl": "https://cdn.dribbble.com/userupload/47521991/file/still-c3580034662603b68e21d3f3211b3616.png?resize=1600x1200",
     "posted": "Apr 26, 2026",
-    "views": 4036,
+    "views": 4052,
     "saves": 8,
     "likes": 14,
     "comments": 0,
@@ -46262,7 +46590,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:19:25.696Z",
+    "scrapedAt": "2026-11-26T21:15:31.330Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -47361,6 +47689,14 @@
         "likes": 14,
         "saves": 8,
         "comments": 0
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 4052,
+        "likes": 14,
+        "saves": 8,
+        "comments": 0
       }
     ]
   },
@@ -47370,7 +47706,7 @@
     "title": "Total Control Over Every Tone | Dizno",
     "imageUrl": "https://cdn.dribbble.com/userupload/47522884/file/a18e3cd83bc4415c846a9c226f7891b8.jpg?resize=1600x1200",
     "posted": "Apr 26, 2026",
-    "views": 1925,
+    "views": 1929,
     "saves": 3,
     "likes": 10,
     "comments": 1,
@@ -47387,7 +47723,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:19:27.328Z",
+    "scrapedAt": "2026-11-26T21:15:32.963Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -48486,6 +48822,14 @@
         "likes": 10,
         "saves": 3,
         "comments": 1
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 1929,
+        "likes": 10,
+        "saves": 3,
+        "comments": 1
       }
     ]
   },
@@ -48495,7 +48839,7 @@
     "title": "Visual System for Flexible Work | Heli Technology",
     "imageUrl": "https://cdn.dribbble.com/userupload/47530385/file/still-3b8282942bf127cae920a40ce76aa1e9.png?resize=1600x1200",
     "posted": "Apr 27, 2026",
-    "views": 859,
+    "views": 865,
     "saves": 3,
     "likes": 10,
     "comments": 0,
@@ -48509,7 +48853,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:19:28.953Z",
+    "scrapedAt": "2026-11-26T21:15:34.604Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -49608,6 +49952,14 @@
         "likes": 10,
         "saves": 3,
         "comments": 0
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 865,
+        "likes": 10,
+        "saves": 3,
+        "comments": 0
       }
     ]
   },
@@ -49617,7 +49969,7 @@
     "title": "Palette and Shade Exploration | Dizno",
     "imageUrl": "https://cdn.dribbble.com/userupload/47549177/file/b65f0289285da78ef2ba84e47ce0e001.jpg?resize=1600x1200",
     "posted": "Apr 28, 2026",
-    "views": 2903,
+    "views": 2913,
     "saves": 5,
     "likes": 10,
     "comments": 0,
@@ -49636,7 +49988,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:19:30.593Z",
+    "scrapedAt": "2026-11-26T21:15:36.263Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -50735,6 +51087,14 @@
         "likes": 10,
         "saves": 5,
         "comments": 0
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 2913,
+        "likes": 10,
+        "saves": 5,
+        "comments": 0
       }
     ]
   },
@@ -50744,7 +51104,7 @@
     "title": "Visual Narrative System | Heli Technology",
     "imageUrl": "https://cdn.dribbble.com/userupload/47572372/file/still-dcc86b682b16e983220595350c89c7f1.png?resize=1600x1200",
     "posted": "Apr 30, 2026",
-    "views": 908,
+    "views": 914,
     "saves": 4,
     "likes": 13,
     "comments": 2,
@@ -50761,7 +51121,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:19:32.263Z",
+    "scrapedAt": "2026-11-26T21:15:37.949Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -51860,6 +52220,14 @@
         "likes": 13,
         "saves": 4,
         "comments": 2
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 914,
+        "likes": 13,
+        "saves": 4,
+        "comments": 2
       }
     ]
   },
@@ -51869,7 +52237,7 @@
     "title": "Export Palettes with Clarity | Dizno",
     "imageUrl": "https://cdn.dribbble.com/userupload/47582198/file/0f50c7ee8f57a5200f79a0662da508e1.jpg?resize=1600x1200",
     "posted": "May 1, 2026",
-    "views": 4861,
+    "views": 4890,
     "saves": 4,
     "likes": 13,
     "comments": 0,
@@ -51885,7 +52253,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:19:33.896Z",
+    "scrapedAt": "2026-11-26T21:15:39.580Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -52984,6 +53352,14 @@
         "likes": 13,
         "saves": 4,
         "comments": 0
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 4890,
+        "likes": 13,
+        "saves": 4,
+        "comments": 0
       }
     ]
   },
@@ -52993,7 +53369,7 @@
     "title": "Hiring Communication System | Heli Technology",
     "imageUrl": "https://cdn.dribbble.com/userupload/47608721/file/still-e7553cb754628b5e9e14b3d46c4ea70b.png?resize=1600x1200",
     "posted": "May 4, 2026",
-    "views": 6133,
+    "views": 6142,
     "saves": 7,
     "likes": 19,
     "comments": 0,
@@ -53012,7 +53388,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:19:35.545Z",
+    "scrapedAt": "2026-11-26T21:15:41.224Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -54111,6 +54487,14 @@
         "likes": 19,
         "saves": 7,
         "comments": 0
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 6142,
+        "likes": 19,
+        "saves": 7,
+        "comments": 0
       }
     ]
   },
@@ -54120,7 +54504,7 @@
     "title": "Protecting Progress, Visually | Dizno",
     "imageUrl": "https://cdn.dribbble.com/userupload/47622329/file/1689bbbb56d2374c898b8f530d659c4c.jpg?resize=1600x1200",
     "posted": "May 5, 2026",
-    "views": 2720,
+    "views": 2727,
     "saves": 3,
     "likes": 15,
     "comments": 0,
@@ -54140,7 +54524,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:19:37.180Z",
+    "scrapedAt": "2026-11-26T21:15:42.843Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -55239,6 +55623,14 @@
         "likes": 15,
         "saves": 3,
         "comments": 0
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 2727,
+        "likes": 15,
+        "saves": 3,
+        "comments": 0
       }
     ]
   },
@@ -55248,7 +55640,7 @@
     "title": "A Focused UI for Gradient Controls | Dizno",
     "imageUrl": "https://cdn.dribbble.com/userupload/47635142/file/91abf9359de1efb28865e3b13f219aee.jpg?resize=1600x1200",
     "posted": "May 6, 2026",
-    "views": 2601,
+    "views": 2628,
     "saves": 3,
     "likes": 17,
     "comments": 0,
@@ -55268,7 +55660,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:19:38.826Z",
+    "scrapedAt": "2026-11-26T21:15:44.460Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -56367,6 +56759,14 @@
         "likes": 17,
         "saves": 3,
         "comments": 0
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 2628,
+        "likes": 17,
+        "saves": 3,
+        "comments": 0
       }
     ]
   },
@@ -56376,7 +56776,7 @@
     "title": "Precision for Gradient Creation | Dizno",
     "imageUrl": "https://cdn.dribbble.com/userupload/47648565/file/aaa74f6bdd29164e93158278e7e41e94.jpg?resize=1600x1200",
     "posted": "May 7, 2026",
-    "views": 5812,
+    "views": 5832,
     "saves": 3,
     "likes": 13,
     "comments": 0,
@@ -56394,7 +56794,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:19:40.443Z",
+    "scrapedAt": "2026-11-26T21:15:46.142Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -57493,6 +57893,14 @@
         "likes": 13,
         "saves": 3,
         "comments": 0
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 5832,
+        "likes": 13,
+        "saves": 3,
+        "comments": 0
       }
     ]
   },
@@ -57502,7 +57910,7 @@
     "title": "Continuing the 3D Icon System | HOP VPN",
     "imageUrl": "https://cdn.dribbble.com/userupload/47675420/file/still-a18ee5c185cc74ad15bfef466aeb99ef.png?resize=1600x1200",
     "posted": "May 10, 2026",
-    "views": 10530,
+    "views": 10606,
     "saves": 19,
     "likes": 37,
     "comments": 3,
@@ -57522,7 +57930,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:19:42.095Z",
+    "scrapedAt": "2026-11-26T21:15:47.798Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -58621,6 +59029,14 @@
         "likes": 37,
         "saves": 19,
         "comments": 3
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 10606,
+        "likes": 37,
+        "saves": 19,
+        "comments": 3
       }
     ]
   },
@@ -58630,7 +59046,7 @@
     "title": "Designing an About Page with Intent | Heli Technology",
     "imageUrl": "https://cdn.dribbble.com/userupload/47687352/file/still-0fae17daf5d9866a95e570be2b9d584e.png?resize=1600x1200",
     "posted": "May 11, 2026",
-    "views": 4797,
+    "views": 4811,
     "saves": 6,
     "likes": 16,
     "comments": 2,
@@ -58651,7 +59067,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:19:43.790Z",
+    "scrapedAt": "2026-11-26T21:15:49.578Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -59750,6 +60166,14 @@
         "likes": 16,
         "saves": 6,
         "comments": 2
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 4811,
+        "likes": 16,
+        "saves": 6,
+        "comments": 2
       }
     ]
   },
@@ -59759,7 +60183,7 @@
     "title": "Geometric Hero Section | Heli Technology",
     "imageUrl": "https://cdn.dribbble.com/userupload/47700727/file/still-2b6b55f78aeebdda7e15f529f316488d.png?resize=1600x1200",
     "posted": "May 12, 2026",
-    "views": 11972,
+    "views": 12051,
     "saves": 14,
     "likes": 30,
     "comments": 1,
@@ -59781,7 +60205,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:19:46.089Z",
+    "scrapedAt": "2026-11-26T21:15:51.281Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -60880,6 +61304,14 @@
         "likes": 30,
         "saves": 14,
         "comments": 1
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 12051,
+        "likes": 30,
+        "saves": 14,
+        "comments": 1
       }
     ]
   },
@@ -60889,7 +61321,7 @@
     "title": "Gradient Export Menu | Dizno",
     "imageUrl": "https://cdn.dribbble.com/userupload/47726630/file/a65403fb7d7bc58dd964f519ab31fbf6.jpg?resize=1600x1200",
     "posted": "May 14, 2026",
-    "views": 1603,
+    "views": 1608,
     "saves": 4,
     "likes": 16,
     "comments": 2,
@@ -60913,7 +61345,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:19:47.729Z",
+    "scrapedAt": "2026-11-26T21:15:52.910Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -62012,6 +62444,14 @@
         "likes": 16,
         "saves": 4,
         "comments": 2
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 1608,
+        "likes": 16,
+        "saves": 4,
+        "comments": 2
       }
     ]
   },
@@ -62021,7 +62461,7 @@
     "title": "Single-Path Referral System | Heli Technology",
     "imageUrl": "https://cdn.dribbble.com/userupload/47755821/file/still-e0cbd6b6c99fe2369e2b9e641fde483c.png?resize=1600x1200",
     "posted": "May 17, 2026",
-    "views": 3403,
+    "views": 3412,
     "saves": 3,
     "likes": 14,
     "comments": 0,
@@ -62044,7 +62484,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:19:49.362Z",
+    "scrapedAt": "2026-11-26T21:15:54.568Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -63143,6 +63583,14 @@
         "likes": 14,
         "saves": 3,
         "comments": 0
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 3412,
+        "likes": 14,
+        "saves": 3,
+        "comments": 0
       }
     ]
   },
@@ -63152,7 +63600,7 @@
     "title": "Gradient Editing in Context | Dizno",
     "imageUrl": "https://cdn.dribbble.com/userupload/47768186/file/06b7267f2e825359b88c7158d8c81a7d.jpg?resize=1600x1200",
     "posted": "May 18, 2026",
-    "views": 2905,
+    "views": 2921,
     "saves": 3,
     "likes": 13,
     "comments": 1,
@@ -63169,7 +63617,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:19:50.995Z",
+    "scrapedAt": "2026-11-26T21:15:56.225Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -64268,6 +64716,14 @@
         "likes": 13,
         "saves": 3,
         "comments": 1
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 2921,
+        "likes": 13,
+        "saves": 3,
+        "comments": 1
       }
     ]
   },
@@ -64277,7 +64733,7 @@
     "title": "The Footer System | Heli Technology",
     "imageUrl": "https://cdn.dribbble.com/userupload/47795387/file/still-4d72d7c1c4d046b82ce4302b34d9da03.png?resize=1600x1200",
     "posted": "May 20, 2026",
-    "views": 6956,
+    "views": 6996,
     "saves": 9,
     "likes": 16,
     "comments": 0,
@@ -64299,7 +64755,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:19:52.665Z",
+    "scrapedAt": "2026-11-26T21:15:57.862Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -65398,6 +65854,14 @@
         "likes": 16,
         "saves": 9,
         "comments": 0
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 6996,
+        "likes": 16,
+        "saves": 9,
+        "comments": 0
       }
     ]
   },
@@ -65407,7 +65871,7 @@
     "title": "Image-based Palette Exploration | Dizno",
     "imageUrl": "https://cdn.dribbble.com/userupload/47836444/file/4a15e6644917cdb87e64fff48ba37bbe.jpg?resize=1600x1200",
     "posted": "May 24, 2026",
-    "views": 3440,
+    "views": 3470,
     "saves": 3,
     "likes": 11,
     "comments": 0,
@@ -65425,7 +65889,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:19:54.310Z",
+    "scrapedAt": "2026-11-26T21:15:59.542Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -66524,6 +66988,14 @@
         "likes": 11,
         "saves": 3,
         "comments": 0
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 3470,
+        "likes": 11,
+        "saves": 3,
+        "comments": 0
       }
     ]
   },
@@ -66533,7 +67005,7 @@
     "title": "Identity Built on Repair | Money Mend",
     "imageUrl": "https://cdn.dribbble.com/userupload/47858420/file/1339a2171e7daa5b30d3fcf792bd1acd.png?resize=1600x1200",
     "posted": "May 26, 2026",
-    "views": 4278,
+    "views": 4286,
     "saves": 3,
     "likes": 12,
     "comments": 0,
@@ -66553,7 +67025,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:19:55.943Z",
+    "scrapedAt": "2026-11-26T21:16:01.180Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -67652,6 +68124,14 @@
         "likes": 12,
         "saves": 3,
         "comments": 0
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 4286,
+        "likes": 12,
+        "saves": 3,
+        "comments": 0
       }
     ]
   },
@@ -67661,7 +68141,7 @@
     "title": "Editing Gradients with More Clarity | Dizno",
     "imageUrl": "https://cdn.dribbble.com/userupload/47879329/file/ae6441a6029a709170159b6f6dfeb116.jpg?resize=1600x1200",
     "posted": "May 28, 2026",
-    "views": 1826,
+    "views": 1838,
     "saves": 2,
     "likes": 11,
     "comments": 0,
@@ -67679,7 +68159,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:19:57.560Z",
+    "scrapedAt": "2026-11-26T21:16:02.792Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -68778,6 +69258,14 @@
         "likes": 11,
         "saves": 2,
         "comments": 0
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 1838,
+        "likes": 11,
+        "saves": 2,
+        "comments": 0
       }
     ]
   },
@@ -68787,7 +69275,7 @@
     "title": "A Daily Cosmic Check-in | Inhusk",
     "imageUrl": "https://cdn.dribbble.com/userupload/47911389/file/8189c16a71f83028a5f37d9b13fb1385.jpg?resize=1600x1200",
     "posted": "Jun 1, 2026",
-    "views": 3149,
+    "views": 3165,
     "saves": 4,
     "likes": 12,
     "comments": 0,
@@ -68815,7 +69303,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:19:59.195Z",
+    "scrapedAt": "2026-11-26T21:16:04.428Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -69914,6 +70402,14 @@
         "likes": 12,
         "saves": 4,
         "comments": 0
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 3165,
+        "likes": 12,
+        "saves": 4,
+        "comments": 0
       }
     ]
   },
@@ -69923,7 +70419,7 @@
     "title": "Compact System Component | Heli Technology",
     "imageUrl": "https://cdn.dribbble.com/userupload/47937048/file/still-00c5414961a6656dd96b20e072d089c4.png?resize=1600x1200",
     "posted": "Jun 3, 2026",
-    "views": 1488,
+    "views": 1496,
     "saves": 2,
     "likes": 13,
     "comments": 0,
@@ -69940,7 +70436,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:20:00.836Z",
+    "scrapedAt": "2026-11-26T21:16:06.056Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -71039,6 +71535,14 @@
         "likes": 13,
         "saves": 2,
         "comments": 0
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 1496,
+        "likes": 13,
+        "saves": 2,
+        "comments": 0
       }
     ]
   },
@@ -71048,7 +71552,7 @@
     "title": "Structured Recovery System | Money Mend",
     "imageUrl": "https://cdn.dribbble.com/userupload/48000126/file/720159fc24797cbff356ad95b2d58164.png?resize=1600x1200",
     "posted": "Jun 9, 2026",
-    "views": 1863,
+    "views": 1874,
     "saves": 3,
     "likes": 11,
     "comments": 0,
@@ -71070,7 +71574,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:20:02.460Z",
+    "scrapedAt": "2026-11-26T21:16:07.742Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -72169,6 +72673,14 @@
         "likes": 11,
         "saves": 3,
         "comments": 0
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 1874,
+        "likes": 11,
+        "saves": 3,
+        "comments": 0
       }
     ]
   },
@@ -72178,7 +72690,7 @@
     "title": "Profile & Astrology Overview | Inhusk",
     "imageUrl": "https://cdn.dribbble.com/userupload/48025483/file/a882ddf96319ae7361df034c6060a7fa.jpg?resize=1600x1200",
     "posted": "Jun 11, 2026",
-    "views": 3154,
+    "views": 3183,
     "saves": 5,
     "likes": 10,
     "comments": 0,
@@ -72195,7 +72707,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:20:04.103Z",
+    "scrapedAt": "2026-11-26T21:16:09.362Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -73294,6 +73806,14 @@
         "likes": 10,
         "saves": 5,
         "comments": 0
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 3183,
+        "likes": 10,
+        "saves": 5,
+        "comments": 0
       }
     ]
   },
@@ -73303,7 +73823,7 @@
     "title": "Digital Card Motion Design | Heli Technology",
     "imageUrl": "https://cdn.dribbble.com/userupload/48065780/file/still-bcc4234e4781b1c87e9e31bed7b1844b.png?resize=1600x1200",
     "posted": "Jun 15, 2026",
-    "views": 6233,
+    "views": 6270,
     "saves": 5,
     "likes": 11,
     "comments": 0,
@@ -73321,7 +73841,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:20:05.728Z",
+    "scrapedAt": "2026-11-26T21:16:10.985Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -74420,6 +74940,14 @@
         "likes": 11,
         "saves": 5,
         "comments": 0
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 6270,
+        "likes": 11,
+        "saves": 5,
+        "comments": 0
       }
     ]
   },
@@ -74429,7 +74957,7 @@
     "title": "Identity in Logo Motion | Money Mend",
     "imageUrl": "https://cdn.dribbble.com/userupload/48078218/file/still-cfea78c9cd020f848b4910db5df2720a.png?resize=1600x1200",
     "posted": "Jun 16, 2026",
-    "views": 3872,
+    "views": 3896,
     "saves": 10,
     "likes": 12,
     "comments": 2,
@@ -74449,7 +74977,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:20:07.370Z",
+    "scrapedAt": "2026-11-26T21:16:12.649Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -75548,6 +76076,14 @@
         "likes": 12,
         "saves": 10,
         "comments": 2
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 3896,
+        "likes": 12,
+        "saves": 10,
+        "comments": 2
       }
     ]
   },
@@ -75557,7 +76093,7 @@
     "title": "Social Media System for Clarity | Money Mend",
     "imageUrl": "https://cdn.dribbble.com/userupload/48103048/file/a8a144100ea803bb7de72eb3fe1662b4.jpg?resize=1600x1200",
     "posted": "Jun 18, 2026",
-    "views": 2043,
+    "views": 2067,
     "saves": 7,
     "likes": 14,
     "comments": 0,
@@ -75576,7 +76112,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:20:09.027Z",
+    "scrapedAt": "2026-11-26T21:16:14.291Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -76675,6 +77211,14 @@
         "likes": 14,
         "saves": 7,
         "comments": 0
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 2067,
+        "likes": 14,
+        "saves": 7,
+        "comments": 0
       }
     ]
   },
@@ -76684,7 +77228,7 @@
     "title": "Unified Color System | Dizno",
     "imageUrl": "https://cdn.dribbble.com/userupload/48227812/file/still-b6306d191cc089e6fefa6481f311e6b2.png?resize=1600x1200",
     "posted": "Jun 30, 2026",
-    "views": 16190,
+    "views": 16212,
     "saves": 2,
     "likes": 12,
     "comments": 3,
@@ -76702,7 +77246,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:20:10.660Z",
+    "scrapedAt": "2026-11-26T21:16:15.963Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -77801,6 +78345,14 @@
         "likes": 12,
         "saves": 2,
         "comments": 3
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 16212,
+        "likes": 12,
+        "saves": 2,
+        "comments": 3
       }
     ]
   },
@@ -77810,9 +78362,9 @@
     "title": "Image to Palette, Instantly | Dizno",
     "imageUrl": "https://cdn.dribbble.com/userupload/48252142/file/still-9abc56a6a5a3ad335bcb79cf798f2430.png?resize=1600x1200",
     "posted": "Jul 2, 2026",
-    "views": 2509,
+    "views": 2523,
     "saves": 3,
-    "likes": 11,
+    "likes": 12,
     "comments": 1,
     "tags": [
       "color palette",
@@ -77824,7 +78376,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:20:12.295Z",
+    "scrapedAt": "2026-11-26T21:16:17.629Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -78923,6 +79475,14 @@
         "likes": 11,
         "saves": 3,
         "comments": 1
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 2523,
+        "likes": 12,
+        "saves": 3,
+        "comments": 1
       }
     ]
   },
@@ -78932,9 +79492,9 @@
     "title": "Hero Section Motion | Money Mend",
     "imageUrl": "https://cdn.dribbble.com/userupload/49366734/file/1694d8aa566e1ca38f440c05418cb248.png?crop=0x0-800x600&resize=800x600",
     "posted": "Oct 19, 2026",
-    "views": 9077,
+    "views": 9120,
     "saves": 3,
-    "likes": 7,
+    "likes": 8,
     "comments": 1,
     "tags": [
       "motion",
@@ -78951,7 +79511,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:20:13.934Z",
+    "scrapedAt": "2026-11-26T21:16:19.250Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -79258,6 +79818,14 @@
         "likes": 7,
         "saves": 3,
         "comments": 1
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 9120,
+        "likes": 8,
+        "saves": 3,
+        "comments": 1
       }
     ]
   },
@@ -79267,9 +79835,9 @@
     "title": "Bento Grid with Motion | Money Mend",
     "imageUrl": "https://cdn.dribbble.com/userupload/49400418/file/still-e4dc3d4a1a167c5d7f76a5a556f589a5.png?resize=1400x1050",
     "posted": "Oct 22, 2026",
-    "views": 27757,
+    "views": 27797,
     "saves": 7,
-    "likes": 15,
+    "likes": 17,
     "comments": 2,
     "tags": [
       "digital product",
@@ -79291,7 +79859,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:20:15.634Z",
+    "scrapedAt": "2026-11-26T21:16:20.950Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -79574,6 +80142,14 @@
         "likes": 15,
         "saves": 7,
         "comments": 2
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 27797,
+        "likes": 17,
+        "saves": 7,
+        "comments": 2
       }
     ]
   },
@@ -79583,9 +80159,9 @@
     "title": "Website Landing | Money Mend",
     "imageUrl": "https://cdn.dribbble.com/userupload/49433780/file/4954f2421ae86e8c74a4fb82dc67d9be.jpg?crop=0x0-2100x1575&resize=1600x1200",
     "posted": "Oct 26, 2026",
-    "views": 260,
+    "views": 271,
     "saves": 3,
-    "likes": 7,
+    "likes": 8,
     "comments": 1,
     "tags": [
       "ux",
@@ -79600,7 +80176,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:20:17.275Z",
+    "scrapedAt": "2026-11-26T21:16:22.576Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -79851,6 +80427,14 @@
         "likes": 7,
         "saves": 3,
         "comments": 1
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 271,
+        "likes": 8,
+        "saves": 3,
+        "comments": 1
       }
     ]
   },
@@ -79860,9 +80444,9 @@
     "title": "Desktop Vs Mobile | Dizno",
     "imageUrl": "https://cdn.dribbble.com/userupload/49466721/file/f3305b68a1b71762dcdcb64007e078b9.jpg?resize=1600x1200",
     "posted": "Oct 29, 2026",
-    "views": 529,
+    "views": 548,
     "saves": 4,
-    "likes": 8,
+    "likes": 9,
     "comments": 0,
     "tags": [
       "color palette",
@@ -79875,7 +80459,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:20:18.875Z",
+    "scrapedAt": "2026-11-26T21:16:24.207Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -80102,6 +80686,14 @@
         "likes": 8,
         "saves": 4,
         "comments": 0
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 548,
+        "likes": 9,
+        "saves": 4,
+        "comments": 0
       }
     ]
   },
@@ -80111,9 +80703,9 @@
     "title": "Tools in 3D Motion | Dizno",
     "imageUrl": "https://cdn.dribbble.com/userupload/49510790/file/still-c78bfbb73e52d6a6a7354bd3011f1370.png?resize=1400x1050",
     "posted": "Nov 3, 2026",
-    "views": 636,
+    "views": 652,
     "saves": 4,
-    "likes": 12,
+    "likes": 13,
     "comments": 1,
     "tags": [
       "user interface",
@@ -80130,7 +80722,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:20:20.529Z",
+    "scrapedAt": "2026-11-26T21:16:25.845Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -80317,6 +80909,14 @@
         "likes": 12,
         "saves": 4,
         "comments": 1
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 652,
+        "likes": 13,
+        "saves": 4,
+        "comments": 1
       }
     ]
   },
@@ -80326,9 +80926,9 @@
     "title": "A Unified Bento Design | Dizno",
     "imageUrl": "https://cdn.dribbble.com/userupload/49534598/file/still-aee7759943940b50955c872f5833c6f5.png?resize=1400x1050",
     "posted": "Nov 5, 2026",
-    "views": 2778,
+    "views": 2791,
     "saves": 6,
-    "likes": 13,
+    "likes": 14,
     "comments": 1,
     "tags": [
       "color generator",
@@ -80343,7 +80943,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:20:22.164Z",
+    "scrapedAt": "2026-11-26T21:16:27.501Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -80514,6 +81114,14 @@
         "likes": 13,
         "saves": 6,
         "comments": 1
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 2791,
+        "likes": 14,
+        "saves": 6,
+        "comments": 1
       }
     ]
   },
@@ -80523,9 +81131,9 @@
     "title": "Logo Refinement & Branding | Beya",
     "imageUrl": "https://cdn.dribbble.com/userupload/49569699/file/40180441927e9cdeaabf6f1911552b5a.png?resize=1600x1200",
     "posted": "Nov 9, 2026",
-    "views": 1021,
+    "views": 1048,
     "saves": 5,
-    "likes": 14,
+    "likes": 15,
     "comments": 2,
     "tags": [
       "graphic design",
@@ -80540,7 +81148,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:20:23.877Z",
+    "scrapedAt": "2026-11-26T21:16:29.429Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -80679,6 +81287,14 @@
         "likes": 14,
         "saves": 5,
         "comments": 2
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 1048,
+        "likes": 15,
+        "saves": 5,
+        "comments": 2
       }
     ]
   },
@@ -80688,7 +81304,7 @@
     "title": "Logo Inspired by Connection | Nixa",
     "imageUrl": "https://cdn.dribbble.com/userupload/49602643/file/c005771a9b632b91b95979aace4b5f0d.jpg?resize=1600x1200",
     "posted": "Nov 12, 2026",
-    "views": 1035,
+    "views": 1067,
     "saves": 4,
     "likes": 15,
     "comments": 3,
@@ -80713,7 +81329,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:20:25.560Z",
+    "scrapedAt": "2026-11-26T21:16:31.078Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -80828,6 +81444,14 @@
         "likes": 15,
         "saves": 4,
         "comments": 3
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 1067,
+        "likes": 15,
+        "saves": 4,
+        "comments": 3
       }
     ]
   },
@@ -80837,9 +81461,9 @@
     "title": "3D Visual Language | Falomen",
     "imageUrl": "https://cdn.dribbble.com/userupload/49638056/file/still-411c08b663c2530130241aea0120c805.png?resize=1400x1050",
     "posted": "Nov 16, 2026",
-    "views": 1072,
-    "saves": 3,
-    "likes": 10,
+    "views": 1109,
+    "saves": 4,
+    "likes": 14,
     "comments": 0,
     "tags": [
       "astrology app",
@@ -80857,7 +81481,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:20:27.245Z",
+    "scrapedAt": "2026-11-26T21:16:32.696Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -80940,6 +81564,14 @@
         "likes": 10,
         "saves": 3,
         "comments": 0
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 1109,
+        "likes": 14,
+        "saves": 4,
+        "comments": 0
       }
     ]
   },
@@ -80949,9 +81581,9 @@
     "title": "Flexible Visual Identity | Jayek",
     "imageUrl": "https://cdn.dribbble.com/userupload/49674579/file/still-d3ad444043dc1ec2d8c64280dcbd0ea0.png?resize=1600x1200",
     "posted": "Nov 19, 2026",
-    "views": 2464,
-    "saves": 5,
-    "likes": 11,
+    "views": 2492,
+    "saves": 6,
+    "likes": 14,
     "comments": 2,
     "tags": [
       "visual design",
@@ -80965,7 +81597,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:20:28.945Z",
+    "scrapedAt": "2026-11-26T21:16:34.349Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -81024,6 +81656,14 @@
         "likes": 11,
         "saves": 5,
         "comments": 2
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 2492,
+        "likes": 14,
+        "saves": 6,
+        "comments": 2
       }
     ]
   },
@@ -81033,9 +81673,9 @@
     "title": "Bilingual Social Media Design | Jayek",
     "imageUrl": "https://cdn.dribbble.com/userupload/49711802/file/still-45f838fe14b34f50b45f11dba251678f.png?resize=1600x1200",
     "posted": "Nov 23, 2026",
-    "views": 282,
+    "views": 322,
     "saves": 5,
-    "likes": 12,
+    "likes": 14,
     "comments": 1,
     "tags": [
       "social media motion",
@@ -81050,7 +81690,7 @@
     ],
     "status": "ok",
     "error": null,
-    "scrapedAt": "2026-11-25T21:20:30.641Z",
+    "scrapedAt": "2026-11-26T21:16:36.032Z",
     "lastError": null,
     "lastFailedAt": null,
     "history": [
@@ -81077,6 +81717,48 @@
         "likes": 12,
         "saves": 5,
         "comments": 1
+      },
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 322,
+        "likes": 14,
+        "saves": 5,
+        "comments": 1
+      }
+    ]
+  },
+  {
+    "profileUrl": "https://dribbble.com/helistudio",
+    "url": "https://dribbble.com/shots/27924740-Social-Motion-Design-Nixa-AI",
+    "title": "Social Motion Design | Nixa AI",
+    "imageUrl": "https://cdn.dribbble.com/userupload/49748538/file/still-f90bfb9d2b38b6bba1cc4073c3e86883.png?resize=1600x1200",
+    "posted": "Nov 26, 2026",
+    "views": 39,
+    "saves": 6,
+    "likes": 11,
+    "comments": 3,
+    "tags": [
+      "brand identity",
+      "motion",
+      "social media motion",
+      "social media design",
+      "branding",
+      "motion graphics"
+    ],
+    "status": "ok",
+    "error": null,
+    "scrapedAt": "2026-11-26T21:16:37.687Z",
+    "lastError": null,
+    "lastFailedAt": null,
+    "history": [
+      {
+        "date": "2026-11-27",
+        "timestamp": 1795727797809,
+        "views": 39,
+        "likes": 11,
+        "saves": 6,
+        "comments": 3
       }
     ]
   }
